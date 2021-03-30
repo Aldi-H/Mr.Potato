@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mr.Head2</string>
+    <string name="welcomeBack">Welcome back,</string>
+    <string name="name">Aldi Himawan</string>
+    <string name="letsStart">Let`s Start,</string>
+    <string name="contactUs">Contact Us</string>
+    <string name="signIn">Sign In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="nim">NIM</string>
+    <string name="mail">Email</string>
+    <string name="phoneNo">082266199963</string>
+    <string name="mailAddr">aldihimawan88@gmail.com</string>
+    <string name="passwd">Password</string>
+    <string name="phone">Phone</string>
+    <string name="userIcon">User Icon</string>
+    <string name="fg_passwd">Forgot Password?</string>
+    <string name="toSignUp">Don`t have an account?</string>
+    <string name="toSignIn">Already have an account?</string>
+    <string name="beard">Beard</string>
+    <string name="eyebrow">Eyebrow</string>
+    <string name="hair">Hair</string>
+    <string name="moustache">Moustache</string>
+    <string name="eyes">Eyes</string>
+    <string name="head">Head</string>
+    <string name="backIcon">Back Icon</string>
+</resources>
